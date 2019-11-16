@@ -1,0 +1,30 @@
+{
+  "name": "fizzbuzz-so-in-solid-tdd",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "eslint": "^6.6.0",
+    "eslint-config-airbnb-base": "^14.0.0",
+    "eslint-plugin-import": "^2.18.2",
+    "jest": "^24.9.0"
+  },
+  "scripts": {
+    "test": "node_modules/jest/bin/jest.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/David-Job/fizzbuzz-so-in-solid-tdd.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/David-Job/fizzbuzz-so-in-solid-tdd/issues"
+  },
+  "homepage": "https://github.com/David-Job/fizzbuzz-so-in-solid-tdd#readme"
+}
